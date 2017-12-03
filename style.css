@@ -67,8 +67,9 @@ h4{
 #textMid{
 	clear: both;
 	background-color:#ffffff;
-	background: url("./images/frame.png") no-repeat;
 	border-radius: .7vh;
+	background: url("./images/frame.png") no-repeat;
+	background-size: cover;
 	padding: 1.7vh 3vw;
 	margin-top:14vh;
 }
