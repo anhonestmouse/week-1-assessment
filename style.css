@@ -3,9 +3,13 @@ body{
 }
 header{
 	height:40vh;
+	width:100vw;
 }
 #topBluePart{
-	background-color: #325c82;
+/*	background-color: #325c82;*/
+	background: -webkit-linear-gradient(#577da0, #396186);
+	background: -o-linear-gradient(#577da0, #396186);
+	background: linear-gradient(#577da0, #396186);
 	width:100%;
 	height: 100%;
 }
@@ -36,14 +40,17 @@ header{
 }
 button{
 /*	display*/
-	background-color: #416e94;
+/*	background-color: #416e94;*/
+	background: -webkit-linear-gradient(#7496b4, #477499);
+	background: -o-linear-gradient(#7496b4, #477499);
+	background: linear-gradient(#7496b4, #477499);
 	float:right;
 	border-color:#335f86;
 	width:10vw;
-	margin-top:2vh;
+	margin-top:2.2vh;
 }
 #homePic{
-	padding-top: 1.4vh;
+	padding-top: 1.6vh;
 	float:left;
 }
 #logInText{
