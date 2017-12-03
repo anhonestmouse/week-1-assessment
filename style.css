@@ -65,9 +65,10 @@ h4{
 #textMid{
 	clear: both;
 	background-color:#ffffff;
+	background: url("./images/frame.png") no-repeat;
 	border-radius: .7vh;
 	padding: 1.7vh 3vw;
-	margin-top:12vh;
+	margin-top:14vh;
 }
 h1{
 	color:#274b6c;
@@ -81,7 +82,7 @@ span{
 	font-weight:700;
 }
 #bottomRight{
-	padding:0 3vw 3vw 3vw;
+	padding:1.7vw 3vw 0vw 3vw;
 /*	position:relative bottom;*/
 }
 #appStore{
@@ -99,10 +100,10 @@ footer{
 	width: 100vw;
 	clear:both;
 	padding-bottom: 3vh;
-	margin-top:5vh;
+	margin-top:7vh;
 }
 ul{
-	font-size: .8em;
+	font-size: .7em;
 }
 li{
 	display:inline-block;
@@ -111,9 +112,9 @@ li{
 }
 a{
 	text-decoration:none;
-	color:#527b9f;
+	color:#668aaa;
 	text-transform:uppercase;
-	font-weight: 800;
+	font-weight: 900;
 }
 #copyright{
 	color: #afafaf;
