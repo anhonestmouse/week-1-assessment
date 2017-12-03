@@ -1,0 +1,115 @@
+body{
+	font-family: "Nunito", sans-serif;
+}
+header{
+	height:40vh;
+}
+#topBluePart{
+	background-color: #325c82;
+	width:100%;
+	height: 100%;
+}
+#midPart{
+	width:100%;
+	height:55vh;
+	float:left;
+	clear:right;
+	margin-top:-25vh;
+}
+#phoneDiv{
+/*	display:inline-block;*/
+	float:left;
+	padding-left:10vw;
+}
+#iPhones{
+}
+#rightHalf{
+/*	display:inline-block;*/
+	float:right;
+	width:45vw;
+	height:100%;
+	padding-right:10vw;
+}
+#instaBrand{
+/*	display:inline-block;*/
+	float:left;
+}
+button{
+/*	display*/
+	background-color: #416e94;
+	float:right;
+	border-color:#335f86;
+	width:10vw;
+	margin-top:2vh;
+}
+#homePic{
+	padding-top: 1.4vh;
+	float:left;
+}
+#logInText{
+	float:left;
+	clear:all;
+}
+h4{
+	color: #e1e8ee;
+	font-size:1.3em;
+	margin: 1.7vh 0 1.7vh -.5vh;
+}
+#textMid{
+	clear: both;
+	background-color:#ffffff;
+	border-radius: .7vh;
+	padding: 1.7vh 3vw;
+	margin-top:12vh;
+}
+h1{
+	color:#274b6c;
+	font-size:1.5em;
+	font-weight: 800;
+}
+p{
+	color:#404040;
+}
+span{
+	font-weight:700;
+}
+#bottomRight{
+	padding:0 3vw 3vw 3vw;
+/*	position:relative bottom;*/
+}
+#appStore{
+	clear:both;
+	display:inline-block;
+}
+#googlePlay{
+	display:inline-block;
+	margin-left:2vw;
+}
+footer{
+	position:absolute;
+	bottom: 0px;
+	text-align: center;
+	width: 100vw;
+	clear:both;
+	padding-bottom: 3vh;
+	margin-top:5vh;
+}
+ul{
+	font-size: .8em;
+}
+li{
+	display:inline-block;
+	margin-left:.7vw;
+	margin-right:.7vw;
+}
+a{
+	text-decoration:none;
+	color:#527b9f;
+	text-transform:uppercase;
+	font-weight: 800;
+}
+#copyright{
+	color: #afafaf;
+	font-weight:700;
+	text-transform:uppercase;
+}
