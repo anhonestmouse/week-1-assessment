@@ -15,6 +15,7 @@ header{
 	height: 100%;
 }
 section{
+/*Defines the middle portion of the page, including the phone pictures, text, etc*/
 	width:100%;
 	height:55vh;
 	float:left;
@@ -22,27 +23,26 @@ section{
 	margin-top:-25vh;
 }
 #phoneDiv{
-/*	display:inline-block;*/
+/*	holds the phones photo*/
 	float:left;
 	padding-left:10vw;
 }
 #iPhones{
 }
 #rightHalf{
-/*	display:inline-block;*/
+/*	holds logo, login, text*/
 	float:right;
 	width:45vw;
 	height:100%;
 	padding-right:10vw;
 }
 #instaBrand{
-/*	display:inline-block;*/
+/*	holds instagram brand*/
 	margin-top:2vh;
 	float:left;
 }
 button{
-/*	display*/
-/*	background-color: #416e94;*/
+/*	creates login button*/
 	background: -webkit-linear-gradient(#7496b4, #477499);
 	background: -o-linear-gradient(#7496b4, #477499);
 	background: linear-gradient(#7496b4, #477499);
