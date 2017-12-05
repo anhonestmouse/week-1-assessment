@@ -53,6 +53,7 @@ button{
 	margin-right:.5vh;
 }
 #homePic{
+/*places home pic inside button*/
 	padding-top: 1.6vh;
 	float:left;
 }
@@ -61,11 +62,13 @@ button{
 	clear:all;
 }
 h4{
+	/*contains login Text*/
 	color: #e1e8ee;
 	font-size:1.3em;
 	margin: 1.7vh 0 1.7vh -.5vh;
 }
 #textMid{
+/*contains all text in the white box*/
 	clear: both;
 	background-color:#ffffff;
 	border-radius: .7vh;
@@ -86,8 +89,8 @@ span{
 	font-weight:700;
 }
 #bottomRight{
+/*contains and manipulates app logos*/
 	padding:1.7vw 3vw 0vw 3vw;
-/*	position:relative bottom;*/
 }
 #appStore{
 	clear:both;
