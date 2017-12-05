@@ -2,11 +2,12 @@ body{
 	font-family: "Nunito", sans-serif;
 }
 header{
+/*This and topBluePart define the blue box at the top of the screen*/
 	height:40vh;
 	width:100vw;
 }
 #topBluePart{
-/*	background-color: #325c82;*/
+/*	helps define the blue box at the top of the screen*/
 	background: -webkit-linear-gradient(#577da0, #396186);
 	background: -o-linear-gradient(#577da0, #396186);
 	background: linear-gradient(#577da0, #396186);
