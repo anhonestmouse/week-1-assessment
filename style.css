@@ -1,4 +1,5 @@
 body{
+/*	this is the closest free google font I could find to the Noue Helvetica used by Instagram*/
 	font-family: "Nunito", sans-serif;
 }
 header{
@@ -101,6 +102,7 @@ span{
 	margin-left:2vw;
 }
 footer{
+/*	holds bottom links and copyright information*/
 	position:absolute;
 	bottom: 0px;
 	text-align: center;
@@ -113,6 +115,7 @@ ul{
 	font-size: .7em;
 }
 li{
+/*	holds both links and copyright as inline block elements.*/
 	display:inline-block;
 	margin-left:.7vw;
 	margin-right:.7vw;
